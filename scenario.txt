@@ -1,0 +1,21 @@
+master init
+player new bleu Gérald
+player new jaune Charles
+player new vert David
+player new rouge Thierry
+master start
+player buzz bleu 0
+player failed 0 0
+player buzz jaune 0
+master valid buzz 0
+master start
+player buzz bleu 0
+master valid buzz 0
+master start
+player multi jaune A
+player multi bleu B
+player multi vert A
+master valid multi 0
+master quit
+
+

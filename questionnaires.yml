@@ -1,0 +1,22 @@
+- id: q1
+  type: simple
+  prompt: Qui est l'inventeur du piano ? 
+  answer: Bartolomeo Critofori
+  point: 5
+
+- id: q2
+  type: simple
+  prompt: Qui est l'inventeur du revolver ?
+  answer: Samuel Colt
+  point: 5
+ 
+- id: q3
+  type: multiple
+  prompt: En quelle annee le Marie Curie a t'elle decouvert le radium ?
+  options: 
+    - 1889
+    - 1898
+    - 1902
+    - 1904
+  answer: 1898
+  point: degressive
